@@ -1,0 +1,10 @@
+/* TableStyles.module.css */
+
+.even-row {
+    background-color: white;
+  }
+  
+  .odd-row {
+    background-color: green;
+  }
+  
